@@ -9,6 +9,7 @@ body {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -34,4 +35,15 @@ section {
     background-repeat: no-repeat;
     padding-left: 70px;
     padding-top: 50px;
+}
+
+.half-width p {
+    padding-top: 30px;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
